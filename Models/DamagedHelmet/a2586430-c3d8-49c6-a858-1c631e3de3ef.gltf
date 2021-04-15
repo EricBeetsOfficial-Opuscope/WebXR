@@ -92,24 +92,24 @@
     "buffers" : [
         {
             "byteLength" : 558504,
-            "uri" : "59c91bc9-9833-497c-afaf-72c0cff60c2c.bin"
+            "uri" : "DamagedHelmet.bin"
         }
     ],
     "images" : [
         {
-            "uri" : "583f58b7-16b1-4b12-96a3-f01683818372.jpg"
+            "uri" : "Default_albedo.jpg"
         },
         {
-            "uri" : "a08f2ffc-abc1-4cf9-9ba2-4a78eef80d6c.jpg"
+            "uri" : "Default_metalRoughness.jpg"
         },
         {
-            "uri" : "8a11a1e2-8a16-4b2e-9fb1-0b5e68d9e50d.jpg"
+            "uri" : "Default_emissive.jpg"
         },
         {
-            "uri" : "c75b60f8-6a90-4b65-a178-899633943b98.jpg"
+            "uri" : "Default_AO.jpg"
         },
         {
-            "uri" : "7c3f582f-7133-4572-990d-6222b2a98ae1.jpg"
+            "uri" : "Default_normal.jpg"
         }
     ],
     "materials" : [
